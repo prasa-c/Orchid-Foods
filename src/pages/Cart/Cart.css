@@ -69,7 +69,7 @@
 }
 
 .cart-promocode p{
-    color: rgb(85, 81, 81);
+    color: rgb(148, 148, 148);
 }
 
 .cart-promocode-input{
@@ -95,4 +95,13 @@
     border: none;
     color: white;
     border-radius: 4px;
+}
+
+@media (max-width:750px){
+    .cart-bottom{
+        flex-direction: column-reverse;
+    }
+    .cart-promocode{
+        justify-content:start;
+    }
 }
