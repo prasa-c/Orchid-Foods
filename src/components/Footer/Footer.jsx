@@ -9,8 +9,8 @@ const Footer = () => {
             <div className="footer-content">
                 <div className="footer-content-left">
                     <img src={assets.logo} alt="" className='logo' />
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae dolore, voluptates laboriosam quaerat commodi illo odit amet! Quos excepturi aut inventore, sunt beatae quibusdam eveniet molestias, quaerat, aliquam facilis accusamus.</p>
-                    <div className="footer-social-icons">
+                    <p>Step into OrchidFoods, where culinary artistry meets the elegance of nature's most exquisite flower. Just like the orchid, known for its beauty and diversity, our dishes are crafted with care, creativity, and a touch of sophistication. Whether you're savoring our flavorful appetizers, indulging in our signature mains, or delighting in decadent desserts, every bite tells a story of passion and quality.</p>
+                        <div className="footer-social-icons">
                         <img src={assets.facebook_icon} alt="" />
                         <img src={assets.twitter_icon} alt="" />
                         <img src={assets.linkedin_icon} alt="" />
