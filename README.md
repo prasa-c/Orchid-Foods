@@ -1,1 +1,6 @@
-![logo](src/assets/logo.png)
+<div align="center"><a name="readme-top"></a>
+<img height="180" src="src/assets/logo.png">
+<h1>Orchid Foods</h1>
+</div>
+
+
